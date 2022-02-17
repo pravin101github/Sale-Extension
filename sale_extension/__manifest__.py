@@ -12,7 +12,7 @@
     """,
     'author': "Pravin Jewale",
     'category': 'Sale',
-    'version': '12.1',
+    'version': '12.2',
     'depends': ['sale','base','contacts','sale_management','report_xlsx'],
     'demo': [
         'demo/demo.xml',
